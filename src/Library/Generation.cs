@@ -3,7 +3,7 @@ namespace Ucu.Poo.GameOfLife
     /// <summary>
     /// Calcula la siguiente generación del juego
     ///
-    /// SRP: su única responsabilidad es aplicar las reglas
+    /// SRP: la única responsabilidad es aplicar las reglas
     /// del Game of Life para obtener el siguiente tablero
     ///
     /// Expert: esta clase conoce las reglas necesarias para
